@@ -6,7 +6,7 @@ An Ultraviolet-based proxy,
 
 Uno in html, css, and js.
 
-# Profile stats:
+# Somewhat inaccurate Profile stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tacogamerman&theme=dark&show_icons=true)
 
