@@ -2,7 +2,7 @@
 
 # Working on:
 
-A uv-based proxy,
+An Ultraviolet-based proxy,
 
 Uno in html, css, and js.
 
