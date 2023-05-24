@@ -9,7 +9,6 @@ The forked repo in my pins is the official repo, if you had starred the old one,
 
 Do NOT support the original repo!
 
-Cosmos backstabbed me after all my work on Cosmic, and thats just a shitty thing to do.
 
 DO NOT HARASS COSMOS
 
