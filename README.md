@@ -8,7 +8,7 @@ The forked repo in this link is the official repo, if you had starred the old on
 
 Do NOT support the original repo!
 
-Cosmos backstabbed me after all my workon Cosmic, and thats just a shitty thing to do.
+Cosmos backstabbed me after all my work on Cosmic, and thats just a shitty thing to do.
 
 DO NOT HARASS COSMOS
 
