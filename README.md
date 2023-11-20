@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Tacogamerman)
 
-Bio: https://alieniscool.netlify.app/
+***Bio:*** https://alieniscool.netlify.app/
 
 ### Unblocker Link Making Tutorials:
 
