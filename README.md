@@ -6,6 +6,8 @@
 
 [Ultraviolet](https://www.youtube.com/watch?v=-QiJRWyDIp4)
 
-[Greatsword](https://www.youtube.com/watch?v=hysvVkzfHlo)
+[Greatsword (New Method)](https://www.youtube.com/watch?v=hysvVkzfHlo)
+
+[Greatsword (Old Method](https://www.youtube.com/watch?v=AZ1T8c1R2JI)
 
 
