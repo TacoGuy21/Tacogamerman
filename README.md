@@ -10,4 +10,10 @@
 
 [Ultraviolet](https://www.youtube.com/watch?v=-QiJRWyDIp4)
 
+### My Stuff
+
+[My Subreddit](https://www.reddit.com/r/swordstuff/)
+
+[My Discord Server](https://discord.gg/BMxe6D9CKv)
+
 
