@@ -12,8 +12,8 @@
 
 ### My Stuff
 
-[My Subreddit](https://www.reddit.com/r/swordstuff/)
+[Subreddit](https://www.reddit.com/r/swordstuff/)
 
-[My Discord Server](https://discord.gg/BMxe6D9CKv)
+[Discord Server](https://discord.gg/BMxe6D9CKv)
 
 
